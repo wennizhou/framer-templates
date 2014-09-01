@@ -1,8 +1,8 @@
 {
   "name": "framer-templates",
-  "version": "1.0.1",
+  "version": "1.4.23",
   "description": "A collection of device templates for Framer",
-  "main": "templates/iphone-5c-blue.js",
+  "main": "templates/nexus-10-landscape.js",
   "directories": {
     "templates": "templates"
   },
@@ -11,9 +11,17 @@
     "glob": "~3.2.9"
   },
   "devDependencies": {},
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Tisho Georgiev",
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+
+  "repository" : {}
+
 }
+
+  
+
+

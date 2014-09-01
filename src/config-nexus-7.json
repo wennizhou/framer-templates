@@ -1,0 +1,18 @@
+{
+  "backgroundImage": "",
+  "preventBounce": true,
+  "shouldShowAddToHomescreenPrompt": false,
+  "deviceWidth": 758,
+  "deviceHeight": 1245,
+  "screenWidth": 600,
+  "screenHeight": 960,
+  "contentWidth": 1200,
+  "contentHeight": 1920,
+  "cursorWidth": 66,
+  "deviceImage": "images/nexus-10.png",
+  "cursorImage1x": "images/cursor.png",
+  "cursorImage2x": "images/cursor@2x.png",
+  "cursorPressedImage1x": "images/cursor-pressed.png",
+  "cursorPressedImage2x": "images/cursor-pressed@2x.png"
+}
+
