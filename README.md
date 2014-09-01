@@ -36,6 +36,10 @@
   * [iPad Mini (Black, Landscape)](https://raw.githubusercontent.com/tisho/framer-templates/master/templates/ipad-mini-black-landscape.js)
   * [Nexus 5 (Portrait)](https://raw.githubusercontent.com/tisho/framer-templates/master/templates/nexus-5.js)
   * [Nexus 5 (Landscape)](https://raw.githubusercontent.com/tisho/framer-templates/master/templates/nexus-5-landscape.js)
+  * [Nexus 7 (Portrait)](https://raw.githubusercontent.com/wennizhou/framer-templates/master/templates/nexus-7.js)
+  * [Nexus 7 (Landscape)](https://raw.githubusercontent.com/wennizhou/framer-templates/master/templates/nexus-7-landscape.js)
+  * [Nexus 10 (Portrait)](https://raw.githubusercontent.com/wennizhou/framer-templates/master/templates/nexus-10.js)
+  * [Nexus 10 (Landscape)](https://raw.githubusercontent.com/wennizhou/framer-templates/master/templates/nexus-10-landscape.js)
   * [Android Wear (Circle)](https://raw.githubusercontent.com/tisho/framer-templates/master/templates/wear-circle.js)
   * [Android Wear (Square)](https://raw.githubusercontent.com/tisho/framer-templates/master/templates/wear-square.js)
 
